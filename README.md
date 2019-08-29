@@ -38,7 +38,7 @@ The user can edit his/her information data.
 
 ## Setup
 
-To run mobile apps, an emulator or a physical device must be connected and running. To set the things up, follow the steps in the Documentation(https://docs.rocketseat.dev/ambiente-react-native/introducao).
+To run mobile apps, an emulator or a physical device must be connected and running. To set the things up, follow the steps in this [Documentation](https://docs.rocketseat.dev/ambiente-react-native/introducao).
 
 With the emulator/device setup, clone the repo and run `npm install` or `yarn`.
 
